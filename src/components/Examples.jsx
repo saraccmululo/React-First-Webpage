@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { EXAMPLES } from "../data.js";
 import TabButton from './TabButton.jsx';
-import Section from "./section.jsx";
+import Section from "./Section.jsx";
 import Tabs from "./Tabs.jsx";
 
 export default function Examples(){
